@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/mohsen-minaei/mohsen-minaei.github.io/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Mohsen Minaei'
 theme = 'cactus'
@@ -39,7 +39,7 @@ weight = 5
 name = "CV"
 url = "/cv.pdf"
 weight = 6
-
+identifier = "cv"
 
 [markup]
   [markup.tableOfContents]

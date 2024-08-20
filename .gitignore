@@ -2,5 +2,3 @@
 *.aider*
 
 .hugo_build.lock
-
-public/

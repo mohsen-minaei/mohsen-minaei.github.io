@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohsen Minaei</title>
-    <link>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/</link>
+    <link>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/</link>
     <description>Recent content on Mohsen Minaei</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Mohsen Minaei</copyright>
     <lastBuildDate>Mon, 19 Aug 2024 15:42:14 -0700</lastBuildDate>
-    <atom:link href="http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Educations</title>
-      <link>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/educations/</link>
+      <link>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/educations/</link>
       <pubDate>Mon, 19 Aug 2024 15:42:14 -0700</pubDate>
-      <guid>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/educations/</guid>
+      <guid>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/educations/</guid>
       <description>Purdue University, Indiana, USA&#xA;Ph.D. in Computer Science, Advisor: Aniket Kate, GPA: 3.97/4.0&#xA;2014 - 2020&#xA;Purdue University, Indiana, USA&#xA;M.S. in Computer Science, GPA: 4.0/4.0&#xA;2014 - 2019&#xA;Sharif University of Technology, Tehran, Iran&#xA;B.S. in Computer (software) Engineering, GPA: 17/20</description>
     </item>
     <item>
       <title>Experiences</title>
-      <link>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/experiences/</link>
+      <link>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/experiences/</link>
       <pubDate>Mon, 19 Aug 2024 15:42:14 -0700</pubDate>
-      <guid>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/experiences/</guid>
+      <guid>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/experiences/</guid>
       <description>Senior Research Scientist at Visa Inc., Leading the Digital Currency Team&#xA;2023 - Current&#xA;Staff Research Scientist at Visa Inc., Security and Digital Currency Team&#xA;2020 - 2023&#xA;Research Scientist Intern at Visa Inc., Blockchain Team&#xA;2019&#xA;Data Scientist Intern at Microsoft, Cloud + AI, Xbox Knowledge Platform Team&#xA;2018&#xA;Program Manager Intern at Microsoft, Universal Store, Fraud Detection Team&#xA;2017&#xA;Software Engineering Intern at Microsoft, Universal Store, Fraud Detection Team</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/projects/</link>
+      <link>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/projects/</link>
       <pubDate>Mon, 19 Aug 2024 15:42:14 -0700</pubDate>
-      <guid>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/projects/</guid>
+      <guid>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/projects/</guid>
       <description>Selected Projects Blockchain-Based Programmable Finance Platform&#xA;Technologies: Ethereum, Smart Contracts, NFT, CBDC, Solidity&#xA;Led protocol development of Visa&amp;rsquo;s prototype of Brazil&amp;rsquo;s Real Digital CBDC for asset tokenization and auctioning. Implemented an on-chain auction and integrated Visa&amp;rsquo;s Universal Payments Channel for currency interoperability. Addressed challenges in cross-currency payments, asset tokenization, and smart contract automation. Central Bank Digital Currency (CBDC) Pilot&#xA;Technologies: CBDC, Tokenized Deposits, Digital Settlement, Hyperledger Besu, Solidity&#xA;Led protocol development in HKMA&amp;rsquo;s e-HKD Pilot to test CBDC use cases and tokenized deposits.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/publications/</link>
+      <link>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54346/mohsen-minaei/mohsen-minaei.github.io/publications/</guid>
+      <guid>http://localhost:1313/mohsen-minaei/mohsen-minaei.github.io/publications/</guid>
       <description>Selected Patents Fast Sync Blockchain System and Method&#xA;2024&#xA;Adithya Bhat, Mohsen Minaei, Mahdi Zamani&#xA;Universal Payment Channels&#xA;2024&#xA;Mohsen Minaei, Ranjit Kumaresan, Mahdi Zamani, Sivanarayana Gaddam&#xA;System, Method, and Computer Program Product for Preventing Miner Extractable Value (MEV) Attacks in a Blockchain Network&#xA;2023&#xA;Mohsen Minaei, Ranjit Kumaresan, Yibin Yang, Sourav Das, Srinivasan Raghuraman, Mahdi Zamani, Mihai Christodorescu, Wanyun Gu&#xA;Privacy-Preserving Detection for Directional Electronic Communications&#xA;2023&#xA;Sourav Das, Srinivasan Raghuraman, Mahdi Zamani, Ranjit Kumaresan, Mohsen Minaei, Sebastian Meiser, Mihai Christodorescu, Wanyun Gu, Yibin Yang</description>
     </item>
   </channel>

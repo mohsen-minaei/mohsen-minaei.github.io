@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/mohsen-minaei/mohsen-minaei.github.io'
+baseURL = 'https://github.com/mohsen-minaei/mohsen-minaei.github.io/'
 languageCode = 'en-us'
 title = 'Mohsen Minaei'
 theme = 'cactus'

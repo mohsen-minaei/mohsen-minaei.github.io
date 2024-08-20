@@ -1,0 +1,109 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mohsen Minaei'
+theme = 'cactus'
+copyright = "Mohsen Minaei" # cactus will use title if copyright is not set
+disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
+
+#summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "About"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Education"
+url = "/educations"
+weight = 2
+
+
+[[menu.main]]
+name = "Experiences"
+url = "/experiences"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 4
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 5
+
+[[menu.main]]
+name = "CV"
+url = "/cv.pdf"
+weight = 6
+
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 1
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+[params]
+  colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  showAllPostsArchive = false # default 
+  profileImage = "images/mohsen.png"
+  logo = "images/headshot.png"
+
+  
+  # Home page settings
+  name = "Mohsen Minaei "
+  description = "Senior Research Scientist with four years of experience at Visa Inc., specializing in security, privacy, and blockchain technologies. I hold a Ph.D. in Computer Science from Purdue University and have a robust background in developing scalable, secure, and privacy-preserving systems across various domains. My expertise includes significant work in fraud detection at Microsoft, where I contributed to enhancing the security and reliability of complex systems. Experienced in leading innovative projects and designing secure and privacy-focused protocols and systems."
+  mainSection = "about" # your main section
+  showWritingList = false
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+  showProjectsList = false # show projects list by default (if projects data file exists).
+  #projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = true # default
+  showReadTime = true # default
+
+  [params.comments]
+    enabled = true # default
+    engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
+    [params.comments.utterances]
+      repo = "<github_username>/<github_reponame>"
+      label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
+      theme = "github-light"
+    [params.comments.cactuscomments]
+      siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to register your site name
+      #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+      #serverName = "" # Defaults to cactus.chat
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "linkedin"
+    link = "https://linkedin.com/in/mohsen-minaei-7430625b"
+  [[params.social]]
+    name = "email"
+    link = "m.mohsen.minaei@gmail.com"  # no need for "mailto:" in the head
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/mohsen-minaei"

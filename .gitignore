@@ -1,0 +1,6 @@
+# Ignore aider files
+*.aider*
+
+.hugo_build.lock
+
+public/

@@ -37,7 +37,7 @@ weight = 5
 
 [[menu.main]]
 name = "CV"
-url = "/cv.pdf"
+url = "/mohsen-minaei-cv.pdf"
 weight = 6
 identifier = "cv"
 

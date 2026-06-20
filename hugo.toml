@@ -68,7 +68,7 @@ identifier = "cv"
   
   # Home page settings
   name = "Mohsen Minaei "
-  description = "Senior Research Scientist with four years of experience at Visa Inc., specializing in security, privacy, and blockchain technologies. I hold a Ph.D. in Computer Science from Purdue University and have a robust background in developing scalable, secure, and privacy-preserving systems across various domains. My expertise includes significant work in fraud detection at Microsoft, where I contributed to enhancing the security and reliability of complex systems. Experienced in leading innovative projects and designing secure and privacy-focused protocols and systems."
+  description = "Senior Staff Research Scientist and tech lead with six years at Visa Inc., designing and shipping distributed-systems protocols for critical payment infrastructure — cross-chain interoperability, off-chain coordination, and payment channels with on-chain safety. I hold a Ph.D. in Computer Science from Purdue University and have built scalable, secure, and privacy-preserving systems across blockchain, cryptography, and security. I led a team of 6 to deliver 8 research projects and 3 production pilots with central and commercial banks, and am currently building distributed, fault-tolerant orchestration for multi-agent LLM evaluation. My earlier work includes fraud detection at Microsoft. 10+ patents and 20+ publications at top systems, security, and cryptography venues."
   mainSection = "about" # your main section
   showWritingList = false
   showAllPostsOnHomePage = false # default

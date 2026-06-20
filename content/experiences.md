@@ -4,8 +4,13 @@ date = 2024-08-19T15:42:14-07:00
 draft = false
 +++
 
-- **Senior Research Scientist at Visa Inc., Leading the Digital Currency Team**  
-  *2023 - Current*
+- **Senior Staff Research Scientist at Visa Inc., Distributed Multi-Agent Systems & Trustworthy AI**  
+  *2025 - Current*  
+  Building distributed, fault-tolerant orchestration for concurrent multi-agent LLM evaluation across frontier models and providers, with adversarial methodology for measuring private-information leakage.
+
+- **Senior Staff Research Scientist at Visa Inc., Leading the Digital Currency Team**  
+  *2023 - 2025*  
+  Tech lead of a 6-person team; delivered 8 distributed-systems research projects and 3 production pilots with central and commercial banks.
 
 - **Staff Research Scientist at Visa Inc., Security and Digital Currency Team**  
   *2020 - 2023*

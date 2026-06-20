@@ -1,4 +1,13 @@
 # Selected Patents
+- **Deposit Tokenization System** [Link](https://patents.google.com/patent/WO2025072819A1) *(2025)*  
+  **M. Minaei**, et al.
+
+- **Systems and Methods for Gesture-Based Authentication** [Link](https://patents.google.com/patent/WO2025072087A1) *(2025)*  
+  **M. Minaei**, et al.
+
+- **Off-Chain Interaction and On-Chain Processing Using Exchange** [Link](https://patents.google.com/patent/WO2025038873A1) *(2025)*  
+  **M. Minaei**, et al.
+
 - **Fast Sync Blockchain System and Method** [Link](https://patents.google.com/patent/WO2024026321A1) *(2024)*  
   A. Bhat, **M. Minaei**, M. Zamani
 
@@ -33,11 +42,46 @@
 
 # Selected Publications
 
+- **OptiBridge: A Trustless, Cost-Efficient Bridge Between the Lightning Network and Ethereum** [Link](https://eprint.iacr.org/2026/147) *(2026)*  
+  **M. Minaei**, D. V. Le, P. Moreno-Sanchez
+
+- **Ira: Efficient Transaction Replay for Distributed Systems** [Link](https://arxiv.org/abs/2601.21286) *(2026)*  
+  A. Bhat, H. B. Shah, **M. Minaei**
+
+- **Scalable Off-Chain Auctions** [Link](https://www.ndss-symposium.org/ndss-paper/scalable-off-chain-auction/) *(2026)*  
+  *The Network and Distributed System Security (NDSS) Symposium*  
+  **M. Minaei**, D. V. Le, R. Kumaresan, A. Beams, P. Moreno-Sanchez, Y. Yang, S. Raghuraman, P. Chatzigiannis, M. Zamani
+
+- **FPS: Flexible Payment System** [Link](https://eprint.iacr.org/2025/2095) *(2025)*  
+  A. Bhat, S. Raghuraman, P. Chatzigiannis, D. V. Le, **M. Minaei**
+
+- **Web3 Recovery Mechanisms and User Preferences** [Link](https://eprint.iacr.org/2025/1687) *(2025)*  
+  E. V. Mangipudi, P. Chatzigiannis, K. Chalkias, A. Kate, **M. Minaei**, M. Mondal
+
+- **AUPCH: Auditable Unlinkable Payment Channel Hubs** [Link](https://eprint.iacr.org/2025/1524) *(2025)*  
+  *European Symposium on Research in Computer Security (ESORICS)*  
+  P. Moreno-Sanchez, **M. Minaei**, S. Raghuraman, P. Chatzigiannis, D. V. Le
+
+- **Lite-PoT: Practical Powers-of-Tau Setup Ceremony** [Link](https://arxiv.org/abs/2503.04549) *(2025)*  
+  *ACM Conference on Computer and Communications Security (CCS)*  
+  L. KL Ng, P. Moreno-Sanchez, **M. Minaei**, P. Chatzigiannis, A. Bhat, D. V. Le
+
+- **DTL: Data Tumbling Layer — A Composable Unlinkability for Smart Contracts** [Link](https://arxiv.org/abs/2503.04260) *(2025)*  
+  *ACM Asia Conference on Computer and Communications Security (AsiaCCS)*  
+  **M. Minaei**, P. Moreno-Sanchez, Z. Fang, S. Raghuraman, N. Alamati, et al.
+
+- **A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms** [Link](https://doi.org/10.1109/SP61157.2025.00158) *(2025)*  
+  *IEEE Symposium on Security and Privacy (S&P)*  
+  P. Chatzigiannis, K. C. Wang, S. Arora, **M. Minaei**
+
+- **SoK: Fully-Homomorphic Encryption in Smart Contracts** [Link](https://eprint.iacr.org/2025/527) *(2025)*  
+  D. Aronoff, A. Bhat, P. Chatzigiannis, **M. Minaei**, S. Raghuraman, et al.
+
 - **Exploring the Interplay Between Interaction Experience and Security Perception of Payment Authentication in Virtual Reality** [Link](https://www.pure.ed.ac.uk/ws/portalfiles/portal/455553201/LiEtalIEEEVRW2024ExploringTheInterplay.pdf) *(2024)*  
   *IEEE Conference on Virtual Reality and 3D User Interfaces*  
   J. Li, S. S. Arora, K. Fawaz, Y. Kim, C. Liu, S. Meiser, **M. Minaei**, M. Shirvanian, K. Wagner
 
-- **Programmable Payment Channels** *(2024)*  
+- **Programmable Payment Channels** [Link](https://doi.org/10.1007/978-3-031-54776-8_3) *(2024)*  
   *International Conference on Applied Cryptography and Network Security (ACNS)*  
   R. Kumaresan, D. V. Le, **M. Minaei**, S. Raghuraman, Y. Yang, M. Zamani
 
@@ -48,7 +92,7 @@
 - **Tokenization of Commodity Receivable** [Link](https://www.tdcommons.org/cgi/viewcontent.cgi?article=7835&context=dpubs_series) *(2024)*  
   S. Smith, W. Gu, M. Zamani, A. Kant, **M. Minaei**, A. Leite
 
-- **Uncovering Impact of Mental Models Towards Adoption of Multi-Device Crypto-Wallets** [Link](https://eprint.iacr.org/2024/684.pdf) *(2023)*  
+- **Uncovering Impact of Mental Models Towards Adoption of Multi-Device Crypto-Wallets** [Link](https://eprint.iacr.org/2022/075.pdf) *(2023)*  
   *ACM Conference on Computer and Communications Security (CCS)*  
   E. V. Mangipudi, U. Desai, **M. Minaei**, M. Mondal, A. Kate
 
@@ -61,9 +105,6 @@
 
 - **SoK: Web3 Recovery Mechanisms** [Link](https://eprint.iacr.org/2023/1575.pdf) *(2023)*  
   P. Chatzigiannis, K. Chalkias, A. Kate, E. V. Mangipudi, **M. Minaei**, M. Mondal
-
-- **Scalable Off-Chain Auctions** [Link](https://eprint.iacr.org/2023/1454.pdf) *(2023)*  
-  **M. Minaei**, D. V. Le, R. Kumaresan, A. Beams, P. Moreno-Sanchez, Y. Yang, S. Raghuraman, P. Chatzigiannis, M. Zamani
 
 - **Autopayments Via Account Abstraction** [Link](https://www.tdcommons.org/cgi/viewcontent.cgi?article=6403&context=dpubs_series) *(2022)*  
   A. Beams, R. Kumaresan, **M. Minaei**, M. Zamani, S. Raghuraman, W. Gu

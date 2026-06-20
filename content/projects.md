@@ -5,18 +5,18 @@ draft = false
 +++
 
 # Selected Projects
- 
-- **Blockchain-Based Programmable Finance Platform**  
-  *Technologies: Ethereum, Smart Contracts, NFT, CBDC, Solidity*  
-  - Led protocol development of Visa's prototype of Brazil's Real Digital CBDC for asset tokenization and auctioning.
-  - Implemented an on-chain auction and integrated Visa's Universal Payments Channel for currency interoperability.
-  - Addressed challenges in cross-currency payments, asset tokenization, and smart contract automation.
 
-- **Central Bank Digital Currency (CBDC) Pilot**  
-  *Technologies: CBDC, Tokenized Deposits, Digital Settlement, Hyperledger Besu, Solidity*  
-  - Led protocol development in HKMA's e-HKD Pilot to test CBDC use cases and tokenized deposits.
-  - Implemented smart contracts for tokenization and intra-bank and inter-bank transfers.
-  - Collaborated with HSBC and Hang Seng Bank on digital settlement and the e-HKD sandbox.
+- **Distributed Multi-Agent LLM Evaluation & Simulation**  
+  *Technologies: Python, Multi-Agent Orchestration, OpenAI Agents SDK, LiteLLM*  
+  - Built distributed, fault-tolerant orchestration for concurrent LLM evaluation across 12 frontier models and 4 providers, with automatic retry and checkpointing.
+  - Designed Visa's Multi-Agent Simulation System for competitive pricing and privacy-sensitive interactions, using a Swiss-system tournament with Bradley–Terry statistical ranking.
+  - Developed adversarial evaluation methodology measuring private-information leakage across explicit, inferential, and behavioral channels.
+
+- **Visa Tokenized Asset Platform (VTAP): Production Critical Infrastructure** [Link](https://developer.visa.com/capabilities/visa-tokenized-asset-platform/)  
+  *Technologies: Python, Solidity, Hyperledger, Distributed Ledger, Tokenized Deposits, CBDC*  
+  - Led protocol and API design for Visa's Tokenized Asset Platform, shipping 3 external pilots (BBVA, HKMA e-HKD, HSBC/Hang Seng) on production-grade distributed infrastructure.
+  - Designed intra- and inter-bank transfer protocols and integrated the Universal Payment Channels API for cross-chain interoperability.
+  - Prototyped Brazil's Real Digital CBDC auction with programmable settlement and cross-currency atomic exchange.
 
 - **Programmable Payment Channels and Scalable Blockchain Auctions**  
   *Technologies: Ethereum, Smart Contracts, Payment Channels, zk-SNARKs*  
